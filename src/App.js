@@ -29,6 +29,7 @@ function App() {
       <ul style={{ background: "brown", color: "white", fontSize: "30px" }}>
         {techformat}
       </ul>
+      {"This is my first react  commit to github and i am happy about it "}
       <footer className="color">
         <p>Copyright 2020</p>
       </footer>
